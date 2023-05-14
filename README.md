@@ -7,18 +7,19 @@ Don't forget to give this project a star for additional support ;)
 Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
-  <img src="README-Assets/mob-psycho-aura.gif" alt="Mob Psycho Aura Example GIF" width="200" height="auto" />
+  <img src="README-Assets/mob-psycho-aura-unity.gif" alt="Mob Psycho Aura Unity Example GIF" width="200" height="200" />
+  <img src="README-Assets/mob-psycho-aura-anime.gif" alt="Mob Psycho Aura Anime Example GIF" width=auto height="200" />
   <h1>Mob Psycho Aura (Unity/Shader Graph)</h1>
 </div>
   
 ## About
 
-This is my attempt at recreating the aura effect from the anime Mob Psycho 100. This was done using Shader Graph and Unity 2022.2.19f1.
+This is my attempt at recreating the aura effect from the anime Mob Psycho 100. Made with Shader Graph and Unity 2022.2.19f1.
 
 ### Details
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="README-Assets/process.png" alt="Process of creating the effect" width="800" height=auto/>
 </div>
 <br />
 
